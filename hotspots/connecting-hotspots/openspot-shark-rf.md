@@ -1,6 +1,6 @@
 ---
 description: >-
-  General instructions on how to setup a Shark RF Openspot (V 1, 2 & 3) Hotspot
+  General instructions on how to setup a Shark RF Openspot (V 1, 2, 3 & 4) Hotspot
   using Homebrew Protocol.
 ---
 
