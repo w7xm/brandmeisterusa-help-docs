@@ -7,9 +7,9 @@ description: >-
 
 # Pi-Star (MMDVM)
 
-{% hint style="info" %}
+!!!
 Please make sure you have updated and are on the latest version of Pi-Star software. By doing so will make it easier to provide support by both of the support teams (Pi-Star and Brandmeister).&#x20;
-{% endhint %}
+!!!
 
 {% tabs %}
 {% tab title="Detailed Step by Step Version" %}
